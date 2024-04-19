@@ -1,8 +1,8 @@
 #  Online Tailor Store
 A web-based tailor store that provides the user with easy to navigate user interface.
 <!-- screenshot -->
-![alt text](https://github.com/CrypticDroid/Online-Tailor-Store/blob/main/Screenshots/home.jpg)
-![alt text](https://github.com/CrypticDroid/Online-Tailor-Store/blob/main/Screenshots/productlist.jpg)
+![alt text](https://github.com/CrypticDroid/Online-Tailor-Store/blob/main/Screenshots/main.jpg)
+![alt text](https://github.com/CrypticDroid/Online-Tailor-Store/blob/main/Screenshots/list.jpg)
 ## Table of contents
 - [System Overview](#system-overview)
 - [Technology](#technology)
