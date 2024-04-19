@@ -4,6 +4,7 @@ A web-based tailor store that provides the user with easy to navigate user inter
 ## Table of contents
 - [System Overview](#system-overview)
 - [Technology](#technoloy)
+- [Features](#features)
 
 ## System Overview
 The web app works as a way for customers to browse products and place orders through the internet. To unlock full access to the functions  of the system, the user is required to login to the system with their credentials. The customers can create their own credentials by providing information. Information regarding the user is stored in a secured database. Upon logging in, they can add items to their cart, place orders, and track their progress. Additionally, the system includes an admin dashboard accessible to administrators, with credentials created manually.
@@ -28,7 +29,20 @@ The web app works as a way for customers to browse products and place orders thr
 <ul>
   <li>User authentication: register accounts, login to and logout of the system</li>
   <li>Profile management: user can update and delete their account</li>
+  <li>Browse products: products can be browsed</li>
   <li>Cart management: add, delete, update and retrieve items</li>
-  <li></li>
-  <li></li>
+  <li>Order placement: logged-in users can place orders</li>
+  <li>Order tracking: orders placed can be tracked</li>
+  <li>Admin dashboard: through the dashboards, orders and users can be manageds</li>
 </ul>
+
+## Getting Started
+
+To run this project locally, follow these steps:
+<ol>
+  <li>Install XAMPP server on your machine.</li>
+  <li>Clone the repository: ``` git clone https://github.com/mushrifahamed/online-tailor-store.git ```</li>
+  <li>Place the source code from above in the `xampp\htdocs` folder</li>
+  <li>Open XAMPP server and start Apache and Mysql</li>
+  <li>Navigate to `http://localhost/online-tailor-store` in your browser</li>
+</ol>
