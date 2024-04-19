@@ -26,9 +26,9 @@ The web app works as a way for customers to browse products and place orders thr
 
 ## Features
 <ul>
-  <li>User authentication: register accounts, login and logout of the system</li>
+  <li>User authentication: register accounts, login to and logout of the system</li>
   <li>Profile management: user can update and delete their account</li>
-  <li></li>
+  <li>Cart management: add, delete, update and retrieve items</li>
   <li></li>
   <li></li>
 </ul>
