@@ -41,7 +41,9 @@ The web app works as a way for customers to browse products and place orders thr
 To run this project locally, follow these steps:
 <ol>
   <li>Install XAMPP server on your machine.</li>
-  <li>Clone the repository: <pre><code>git clone https://github.com/mushrifahamed/online-tailor-store.git</code></pre></li>
+  <li>Clone the repository: 
+    <pre><code>git clone https://github.com/mushrifahamed/online-tailor-store.git</code></pre>
+  </li>
   <li>Place the source code from above in the <code>xampp\htdocs</code> folder</li>
   <li>Open XAMPP server and start Apache and MySQL</li>
   <li>Navigate to <code>http://localhost/online-tailor-store</code> in your browser</li>
