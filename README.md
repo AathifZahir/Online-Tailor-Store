@@ -2,6 +2,7 @@
 A web-based tailor store that provides the user with easy to navigate user interface.
 <!-- screenshot -->
 ## Table of contents
+- [System Overview](#system-overview)
 [TOC]
 
 ## System Overview
