@@ -30,13 +30,13 @@ The web app works as a way for customers to browse products and place orders thr
 
 ## Features
 <ul>
-  <li>User authentication: register accounts, login to and logout of the system</li>
-  <li>Profile management: user can update and delete their account</li>
-  <li>Browse products: products can be browsed</li>
-  <li>Cart management: add, delete, update and retrieve items</li>
-  <li>Order placement: logged-in users can place orders</li>
-  <li>Order tracking: orders placed can be tracked</li>
-  <li>Admin dashboard: through the dashboards, orders and users can be manageds</li>
+  <li><strong>User authentication:</strong> register accounts, login to and logout of the system</li>
+  <li><strong>Profile management:</strong> user can update and delete their account</li>
+  <li><strong>Browse products:</strong> products can be browsed</li>
+  <li><strong>Cart management:</strong> add, delete, update and retrieve items</li>
+  <li><strong>Order placement:</strong> logged-in users can place orders</li>
+  <li><strong>Order tracking:</strong> orders placed can be tracked</li>
+  <li><strong>Admin dashboard:</strong> through the dashboards, orders and users can be manageds</li>
 </ul>
 
 ## Getting Started
