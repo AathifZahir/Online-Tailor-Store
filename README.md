@@ -1,4 +1,4 @@
-#  Online Tailor Store
+#  <center>Online Tailor Store</center>
 A web-based tailor store that provides the user with easy to navigate user interface.
 <!-- screenshot -->
 ![alt text](https://github.com/CrypticDroid/Online-Tailor-Store/blob/main/Screenshots/main.jpg)
