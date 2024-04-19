@@ -24,3 +24,11 @@ The web app works as a way for customers to browse products and place orders thr
 **Editor:**
 ![Notepad++](https://img.shields.io/badge/Notepad++-7.9.5-blue?style=flat-square&logo=notepad%2B%2B&logoColor=white)
 
+## Features
+<ul>
+  <li>User authentication: register accounts, login and logout of the system</li>
+  <li>Profile management: user can update and delete their account</li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
