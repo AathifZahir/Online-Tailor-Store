@@ -1,5 +1,5 @@
 #  <h1 align="center">Online Tailor Store</h1>
-A web-based tailor store that provides the user with easy to navigate user interface.
+<p align="center">A web-based tailor store that provides the user with easy to navigate user interface.</p>
 <!-- screenshot -->
 ![alt text](https://github.com/CrypticDroid/Online-Tailor-Store/blob/main/Screenshots/main.jpg)
 ![alt text](https://github.com/CrypticDroid/Online-Tailor-Store/blob/main/Screenshots/list.jpg)
